@@ -1,3 +1,3 @@
-let yourArray=['one', 2, 'three', true, false];
+let yourArray=['thirty', 2007, true, 26, 'love'];
 	console.log(yourArray);
 	console.log(yourArray.length);
